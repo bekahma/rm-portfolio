@@ -139,21 +139,31 @@ const About = () => {
               <a href="https://uwaterloo.ca/biomedical-engineering/">
                 Biomedical Engineering from the University of Waterloo
               </a>
-              , where I explored topics like the gait cycle, fluid dynamics in blood vessels, and
-              three-point bending tests for bones.
+              .
             </p>
 
             <p>
-              During my studies, I had the opportunity to explore different roles in software
-              development and product design. While I learned a lot from each experience, I’m now
-              shifting my focus to something more technical as I continue my studies in Computer
-              Engineering with a specialization in machine learning.
+              My passion for tech began at <a href="https://lisnen.com/">Lisnen</a>, where I
+              developed a mobile app to alert the deaf and hard-of-hearing to critical alarms (e.g.
+              fire alarms) in their surroundings. This led me to explore other roles in tech
+              including full-stack development and product design.
+            </p>
+
+            <p>
+              After learning about how humans think and how machines think separately, my interest
+              now lies at the intersection of these fields as I pursue my thesis in machine
+              learning.
             </p>
 
             <p>
               When I'm not in front of a computer screen, you can find me exploring art galleries,
-              scrolling IG reels to find new recipes to cook, and snapping photos on my disposable
-              camera.
+              scrolling IG reels to find new recipes to cook, or jamming to my curated workout
+              playlist at the gym.
+            </p>
+
+            <p>
+              Currently seeking opportunities in software engineering and machine learning
+              (internships & new grad)!
             </p>
           </div>
         </StyledText>
@@ -184,4 +194,8 @@ commenting out skills section for later
 <ul className="skills-list">
   {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
 </ul>
+
+this is too long
+, where I explored topics like the gait cycle, fluid dynamics in blood vessels, and
+three-point bending tests for bones.
 */
