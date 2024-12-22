@@ -137,9 +137,8 @@ const About = () => {
             <p>
               Hi, I’m Rebecca! I recently graduated with a degree in{' '}
               <a href="https://uwaterloo.ca/biomedical-engineering/">
-                Biomedical Engineering from the University of Waterloo
+                Biomedical Engineering from the University of Waterloo.
               </a>
-              .
             </p>
 
             <p>
