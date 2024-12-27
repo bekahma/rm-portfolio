@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am an engineer and researcher dedicated to tackling challenging problems and harnessing
-        evolving technology to enhance the quality of life for others.
+        I am an engineer and researcher who is passionate about turning complex challenges into
+        solutions that improve everyday lives.
       </p>
     </>
   );
